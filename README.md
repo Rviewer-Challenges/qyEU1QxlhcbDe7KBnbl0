@@ -18,7 +18,7 @@ Memory Challenge - Remember Us is an interactive web-based memory card game desi
 1. **Installation**: No installation is required
 
 2. **Running the Game**:
-   - Open the /////// website in your web browser
+   - Open the index.html webpage in your web browser
    - Start playing by matching pairs of cards representing different eras and inventions.
 
 3. **Objective**: Match all the pairs of cards to complete the level before the virus erases the memories completely (1min) and save humanity's knowledge.
